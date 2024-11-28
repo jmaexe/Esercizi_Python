@@ -2,7 +2,6 @@ import libro as l
 
 print("Gestionale Libreria : ")
 
-dictionary = {1: "Guerra e pace",2: "Il ritratto di Dorian Gray",3: "La coscienza di Zeno"}
 
 scelta = 0
 while scelta!= -1:
